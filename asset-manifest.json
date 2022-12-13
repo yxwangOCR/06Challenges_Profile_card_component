@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/06Challenges_Profile_card_component/static/css/main.636fa8fe.css",
-    "main.js": "/06Challenges_Profile_card_component/static/js/main.b99b247f.js",
+    "main.css": "/06Challenges_Profile_card_component/static/css/main.80f41bee.css",
+    "main.js": "/06Challenges_Profile_card_component/static/js/main.f1e534e1.js",
+    "static/media/bg-pattern-card.svg": "/06Challenges_Profile_card_component/static/media/bg-pattern-card.b61daebd3cb4b885d10fd683755d49bb.svg",
     "index.html": "/06Challenges_Profile_card_component/index.html",
-    "main.636fa8fe.css.map": "/06Challenges_Profile_card_component/static/css/main.636fa8fe.css.map",
-    "main.b99b247f.js.map": "/06Challenges_Profile_card_component/static/js/main.b99b247f.js.map"
+    "static/media/bg-pattern-bottom.svg": "/06Challenges_Profile_card_component/static/media/bg-pattern-bottom.a34eb319c02ad49587c339df93212a6e.svg",
+    "static/media/bg-pattern-top.svg": "/06Challenges_Profile_card_component/static/media/bg-pattern-top.dae77b1febf9b29fe34ed57eba86693f.svg",
+    "main.80f41bee.css.map": "/06Challenges_Profile_card_component/static/css/main.80f41bee.css.map",
+    "main.f1e534e1.js.map": "/06Challenges_Profile_card_component/static/js/main.f1e534e1.js.map"
   },
   "entrypoints": [
-    "static/css/main.636fa8fe.css",
-    "static/js/main.b99b247f.js"
+    "static/css/main.80f41bee.css",
+    "static/js/main.f1e534e1.js"
   ]
 }
