@@ -1,3 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Mina:wght@400;700&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  font-family: Mina, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #19a2ae;
+}
