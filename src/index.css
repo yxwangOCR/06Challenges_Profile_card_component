@@ -16,5 +16,9 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-color: #19a2ae;
+  background: url(./assets/bg-pattern-top.svg),
+    url(./assets/bg-pattern-bottom.svg);
+  background-color: hsl(185, 75%, 39%);
+  background-repeat: no-repeat, no-repeat;
+  background-position: right 48vw bottom 40vh, left 50vw top 40vh;
 }
