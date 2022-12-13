@@ -5,7 +5,7 @@ import profile from "./assets/image-victor.jpg";
 
 function App() {
   return (
-    <div class='bg-white w-[330px] h-[375px] rounded-2xl'>
+    <div class='bg-white w-[330px] h-[375px] rounded-2xl hover:scale-125 hover:animate-pulse hover:cursor-pointer'>
       <img
         class='w-full h-[140px] rounded-t-2xl'
         src={bg}
