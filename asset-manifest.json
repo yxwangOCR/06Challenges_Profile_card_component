@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/06Challenges_Profile_card_component/static/css/main.636fa8fe.css",
+    "main.js": "/06Challenges_Profile_card_component/static/js/main.b99b247f.js",
+    "index.html": "/06Challenges_Profile_card_component/index.html",
+    "main.636fa8fe.css.map": "/06Challenges_Profile_card_component/static/css/main.636fa8fe.css.map",
+    "main.b99b247f.js.map": "/06Challenges_Profile_card_component/static/js/main.b99b247f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.636fa8fe.css",
+    "static/js/main.b99b247f.js"
+  ]
+}
